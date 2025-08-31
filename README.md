@@ -4,7 +4,7 @@
 
 ## setup
 
-###Raspberry Pi setup
+### Raspberry Pi setup
 
 ```
 git clone https://github.com/PAN-DA-BOI/motion-sensor.git
@@ -13,7 +13,7 @@ chmod +x ./setup.sh
 ./setup.sh
 ```
 
-###ESP32 setup
+### ESP32 setup
 
 
-just open and flash the code in "motion sensor\Code\esp-code"
+Just open and flash the code in "motion sensor\Code\esp-code"
